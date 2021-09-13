@@ -1,6 +1,6 @@
 package gof23.gof23_3.iterator;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;

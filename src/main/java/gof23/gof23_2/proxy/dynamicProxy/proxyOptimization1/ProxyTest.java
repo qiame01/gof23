@@ -1,7 +1,7 @@
 package gof23.gof23_2.proxy.dynamicProxy.proxyOptimization1;
 
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.lang.reflect.Proxy;
 

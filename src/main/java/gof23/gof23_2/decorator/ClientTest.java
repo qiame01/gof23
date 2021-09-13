@@ -1,6 +1,6 @@
 package gof23.gof23_2.decorator;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 public class ClientTest {
     @Test

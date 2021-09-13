@@ -1,6 +1,6 @@
 package gof23.gof23_2.flyWeight;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 享元模式 FlyWeight (故也叫苍蝇量模式)

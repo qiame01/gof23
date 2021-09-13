@@ -1,6 +1,6 @@
 package gof23.gof23_2.adapter.objectAdapter;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 适配器模式实现方式2/3：对象适配器模式

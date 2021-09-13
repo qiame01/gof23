@@ -1,6 +1,6 @@
 package gof23.gof23_1.singleton;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 懒汉式单例：需要用到时，才创建实例。

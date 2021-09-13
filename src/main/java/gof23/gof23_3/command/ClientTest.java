@@ -1,6 +1,6 @@
 package gof23.gof23_3.command;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 命令模式

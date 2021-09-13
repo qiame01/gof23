@@ -1,6 +1,6 @@
 package gof23.gof23_3.observer;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 观察者模式

@@ -5,7 +5,7 @@ import gof23.gof23_1.factory.abstractFactory.BFactory;
 import gof23.gof23_1.factory.factoryMethod.CCarFactory;
 import gof23.gof23_1.factory.factoryMethod.DCarFactory;
 import gof23.gof23_1.factory.staticFactory.SimpleFactory;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 public class CommonTest {
 

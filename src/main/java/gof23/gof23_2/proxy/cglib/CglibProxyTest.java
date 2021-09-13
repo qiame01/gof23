@@ -1,6 +1,6 @@
 package gof23.gof23_2.proxy.cglib;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;
 import org.springframework.cglib.proxy.MethodProxy;

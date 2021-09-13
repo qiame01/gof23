@@ -1,6 +1,6 @@
 package gof23.gof23_3.mediator;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 中介者模式

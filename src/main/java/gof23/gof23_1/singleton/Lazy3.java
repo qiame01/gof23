@@ -1,6 +1,6 @@
 package gof23.gof23_1.singleton;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 问题：DCL懒汉式单例下，依然存在风险：

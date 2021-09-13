@@ -1,6 +1,6 @@
 package gof23.gof23_2.facade;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 使用场景：当系统需要进行分层设计，或调用子系统比较麻烦的时候

@@ -1,6 +1,6 @@
 package gof23.gof23_3.template;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 public class Client {
     @Test

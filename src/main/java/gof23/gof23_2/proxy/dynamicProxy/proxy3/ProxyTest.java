@@ -1,6 +1,6 @@
 package gof23.gof23_2.proxy.dynamicProxy.proxy3;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

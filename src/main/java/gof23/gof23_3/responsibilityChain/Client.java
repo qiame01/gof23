@@ -1,6 +1,6 @@
 package gof23.gof23_3.responsibilityChain;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 职责链模式，也叫责任链模式

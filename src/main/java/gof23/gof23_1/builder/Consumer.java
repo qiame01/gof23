@@ -1,6 +1,6 @@
 package gof23.gof23_1.builder;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 建造者模式：消费者调用指挥者D，D调用具体建造者A、B（A继承了抽象Builder），A完成产品的实例化、组装、返回。
