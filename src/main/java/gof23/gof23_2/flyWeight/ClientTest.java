@@ -16,7 +16,7 @@ import org.junit.Test;
  * 创建享元类对象后，不可再次进行修改
  * 外部状态是善变的，故必须独立于内部状态，单独设置
  */
-public class Client {
+public class ClientTest {
     @Test
     public void test() {
         // 创建享元类对象后，不可再次进行修改。下面虽然又试图创建新的白色，但实际只创建了一个，达到了节省内存的目的

@@ -21,7 +21,7 @@ import org.junit.Test;
  * 对比：***
  * 备注：要实现怎样的通知效果，只需修改中介者类即可。关键也在于维护这个中介者类
  */
-public class Client {
+public class ClientTest {
 
     @Test
     public void test() {

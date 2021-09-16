@@ -1,7 +1,10 @@
 package gof23.gof23_3.visitor;
 
 /**
- * 暂未整理
+ * 抽象访问者，Visitor子类可以扩展，如VisitorA、VisitorB...Visitor是可扩展的第2个维度
  */
-public class Visitor {
+interface Visitor {
+
+    void visit(Element element);
+
 }

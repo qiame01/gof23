@@ -12,7 +12,7 @@ import org.junit.Test;
  * 应用举例：DBUtils封装了jdbc相关操作
  * 对比：***
  */
-public class Client {
+public class ClientTest {
     /**
      * 原来注册公司以及后续贷款纳税等，需要自己亲自挨个与各个子系统进行交互，耦合性太强。
      */

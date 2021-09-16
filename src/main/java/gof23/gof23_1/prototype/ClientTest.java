@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * 克隆模式：分为浅克隆（针对非组合场景）、深克隆（针对组合场景）
  */
-public class CloneTest {
+public class ClientTest {
 
     /**
      * 浅克隆：克隆后的对象，其内部的组合对象属性依然指向原类中的属性，导致二者共用同一个对象属性

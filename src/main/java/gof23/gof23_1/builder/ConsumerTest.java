@@ -7,7 +7,7 @@ import org.junit.Test;
  * 使用场景：建造者模式所创建的产品一般具有较多的共同点，其组成部分相似
  * 抽象建造者相当于蓝图，让子类具体实现。可任意增加新的具体建造者
  */
-public class Consumer {
+public class ConsumerTest {
 
     /**
      * 实现方式1

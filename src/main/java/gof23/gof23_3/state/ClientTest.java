@@ -22,7 +22,7 @@ import org.junit.Test;
  * 应用举例：线程状态
  * 对比：***
  */
-public class Client {
+public class ClientTest {
 
     @Test
     public void test() {
