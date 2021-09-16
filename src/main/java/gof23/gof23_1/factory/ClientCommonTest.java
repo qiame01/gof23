@@ -5,9 +5,9 @@ import gof23.gof23_1.factory.abstractFactory.BFactory;
 import gof23.gof23_1.factory.factoryMethod.CCarFactory;
 import gof23.gof23_1.factory.factoryMethod.DCarFactory;
 import gof23.gof23_1.factory.staticFactory.SimpleFactory;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-public class CommonTest {
+public class ClientCommonTest {
 
     /**
      * 简单工厂模式（静态工厂模式）：只有一个车工厂类，类中包含一个或多个接收参数并创建实例的静态方法

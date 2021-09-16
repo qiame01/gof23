@@ -1,6 +1,7 @@
 package gof23.gof23_2.bridge;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 
 /**
  * 使用场景：桥接模式适用于一个系统具有两个独立变化维度，且一个维度需要调用另外一个维度的方法这样的场景

@@ -1,6 +1,6 @@
 package gof23.gof23_2.adapter.defaultAdapter;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 适配器模式实现方式3/3：缺省适配器模式

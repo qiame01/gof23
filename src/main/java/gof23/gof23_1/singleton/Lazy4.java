@@ -1,6 +1,6 @@
 package gof23.gof23_1.singleton;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 静态内部类实现懒汉式单例，可用，原因如下：

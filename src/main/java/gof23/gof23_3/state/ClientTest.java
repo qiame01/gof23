@@ -1,6 +1,6 @@
 package gof23.gof23_3.state;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 使用场景：
@@ -22,7 +22,7 @@ import org.junit.jupiter.api.Test;
  * 应用举例：线程状态
  * 对比：***
  */
-public class Client {
+public class ClientTest {
 
     @Test
     public void test() {

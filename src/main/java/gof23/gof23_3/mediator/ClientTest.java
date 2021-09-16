@@ -1,6 +1,6 @@
 package gof23.gof23_3.mediator;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 中介者模式
@@ -21,7 +21,7 @@ import org.junit.jupiter.api.Test;
  * 对比：***
  * 备注：要实现怎样的通知效果，只需修改中介者类即可。关键也在于维护这个中介者类
  */
-public class Client {
+public class ClientTest {
 
     @Test
     public void test() {

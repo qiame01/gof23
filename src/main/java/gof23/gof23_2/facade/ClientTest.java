@@ -1,6 +1,6 @@
 package gof23.gof23_2.facade;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 使用场景：当系统需要进行分层设计，或调用子系统比较麻烦的时候
@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
  * 应用举例：DBUtils封装了jdbc相关操作
  * 对比：***
  */
-public class Client {
+public class ClientTest {
     /**
      * 原来注册公司以及后续贷款纳税等，需要自己亲自挨个与各个子系统进行交互，耦合性太强。
      */

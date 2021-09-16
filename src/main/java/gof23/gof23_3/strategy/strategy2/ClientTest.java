@@ -1,12 +1,12 @@
 package gof23.gof23_3.strategy.strategy2;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 策略模式
  * 本例详述了组件完备情形下的策略模式，即存在多个抽象策略角色(StrategyFly等)、存在多个环境角色(ABird等)
  */
-public class Client {
+public class ClientTest {
     @Test
     public void test() {
         Bird bird1 = new ABird("夜莺");

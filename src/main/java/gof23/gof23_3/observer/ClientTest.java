@@ -1,6 +1,6 @@
 package gof23.gof23_3.observer;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 观察者模式
@@ -20,7 +20,7 @@ import org.junit.jupiter.api.Test;
  * 对比：***
  * 备注：又叫【发布-订阅模式】
  */
-public class Client {
+public class ClientTest {
     @Test
     public void test() {
 

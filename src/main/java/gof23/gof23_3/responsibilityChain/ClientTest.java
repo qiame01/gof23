@@ -1,6 +1,6 @@
 package gof23.gof23_3.responsibilityChain;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 职责链模式，也叫责任链模式
@@ -21,7 +21,7 @@ import org.junit.jupiter.api.Test;
  * 1必须将第一个处理者set到最后一个处理者里，形成闭环，防止不从第一个开始处理请求这种情形
  * 2实际中，一般用一个类组合一个list来存放所有的处理者，这样似乎关系到了另一种模式，各个模式不是绝对独立的
  */
-public class Client {
+public class ClientTest {
     @Test
     public void test() {
         // 以后一般用一个类组合一个list来存放所有的处理者

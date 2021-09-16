@@ -1,6 +1,6 @@
 package gof23.gof23_1.singleton;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 import java.lang.reflect.Constructor;
 

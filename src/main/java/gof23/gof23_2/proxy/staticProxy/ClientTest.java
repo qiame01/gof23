@@ -1,6 +1,6 @@
 package gof23.gof23_2.proxy.staticProxy;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 静态代理：要求代理类和目标类要实现同一个接口

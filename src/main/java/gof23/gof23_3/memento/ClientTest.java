@@ -1,6 +1,6 @@
 package gof23.gof23_3.memento;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 备忘录模式的核心：

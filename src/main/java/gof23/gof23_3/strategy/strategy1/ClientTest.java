@@ -1,6 +1,6 @@
 package gof23.gof23_3.strategy.strategy1;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * 策略模式
@@ -26,7 +26,7 @@ import org.junit.jupiter.api.Test;
  * 2环境类可以有一个或多个子类(完整版的策略模式见下面 strategy2)
  * 3环境类可以持有一个或多个策略类接口对象(完整版的策略模式见下面 strategy2)
  */
-public class Client {
+public class ClientTest {
 
     @Test
     public void test2() {
