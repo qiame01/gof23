@@ -4,7 +4,6 @@ import java.util.Map;
 
 /**
  * 环境类
- * 环境类可以有一个或多个子类
  */
 public class Context {
     private String name;
